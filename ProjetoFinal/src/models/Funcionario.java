@@ -1,5 +1,5 @@
 
-package projetofinal;
+package models;
 
 public class Funcionario {
 
